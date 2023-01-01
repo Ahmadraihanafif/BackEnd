@@ -73,7 +73,6 @@ class Student {
       });
     });
 
-    // mencari data yang baru di update
     const student = this.find(id);
     return student;
   }
